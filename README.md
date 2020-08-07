@@ -6,11 +6,13 @@ A Unity toolset that includes commonly used codes that focuses on simplicity and
 ## Features
 - State Machine
 - Singleton
+- Update Manager
 
 ## Planned Features
 - Object Pooling
-- Update Manager
 - Tween
+- Other Misc Math Utilities
 
 ## Requirements
-- Unity 2018.4.0f1 and above (or just grab the scripts yourself)
+- Scripts should work for Unity 5 and above
+- For contributing, you must use Unity 2018.4.0f1 and above
