@@ -1,11 +1,10 @@
-﻿using Junnav.Zen.Toolset.Singleton;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace Junnav.Zen.Toolset.UpdateManager
+namespace ZenToolset
 {
     /// <summary>
     /// A singleton that can manage every game object's Update, FixedUpdate and LateUpdate that register itself to it.
-    /// Its dependency is Junnav.Zen.Toolset.Singleton.Singleton
+    /// Its dependency is ZenToolset.Singleton
     /// </summary>
     public class UpdateManager : Singleton<UpdateManager>
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.UpdateManager.Example
+namespace ZenToolset.Example
 {
     public class ExampleUnmanagedUpdates : MonoBehaviour
     {

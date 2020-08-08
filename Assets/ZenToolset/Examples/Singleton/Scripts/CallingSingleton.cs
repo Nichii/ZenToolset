@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.Singleton.Example
+namespace ZenToolset.Example
 {
     public class CallingSingleton : MonoBehaviour
     {

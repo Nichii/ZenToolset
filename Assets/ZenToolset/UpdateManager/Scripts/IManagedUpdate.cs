@@ -1,4 +1,4 @@
-﻿namespace Junnav.Zen.Toolset.UpdateManager
+﻿namespace ZenToolset
 {
     public interface IManagedUpdate
     {

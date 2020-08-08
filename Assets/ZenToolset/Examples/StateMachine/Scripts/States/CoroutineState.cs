@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Junnav.Zen.Toolset.StateMachine.Example
+namespace ZenToolset.Example
 {
     public class CoroutineState : State
     {

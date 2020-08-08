@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.StateMachine
+namespace ZenToolset
 {
     /// <summary>
     /// Holds logic for the current state. Inherit from this class to create a new state.

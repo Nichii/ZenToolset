@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.StateMachine
+namespace ZenToolset
 {
     /// <summary>
     /// Responsible for controlling the flow of the states in child game objects.

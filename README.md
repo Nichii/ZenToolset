@@ -7,9 +7,9 @@ A Unity toolset that includes commonly used codes that focuses on simplicity and
 - State Machine
 - Singleton
 - Update Manager
+- Object Pooling
 
 ## Planned Features
-- Object Pooling
 - Tween
 - Other Misc Math Utilities
 

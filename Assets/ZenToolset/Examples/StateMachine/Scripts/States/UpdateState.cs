@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.StateMachine.Example
+namespace ZenToolset.Example
 {
     public class UpdateState : State
     {

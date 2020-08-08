@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Junnav.Zen.Toolset.Singleton
+namespace ZenToolset
 {
     /// <summary>
     /// Makes sure there's only one instance of this script running at the same time. Inherit from this script to create a new singleton
