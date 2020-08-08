@@ -1,5 +1,5 @@
 # Zen Toolset
-A Unity toolset that includes commonly used codes that focuses on simplicity and performance.
+A Unity toolset that includes commonly used codes that focus on simplicity and performance.
 
 *This project is still currently under development, you are free to contribute to it.*
 
@@ -11,6 +11,10 @@ A Unity toolset that includes commonly used codes that focuses on simplicity and
 
 ## Planned Features
 - Tween
+- Spline
+- Gamepad Joystick Square To Circle Input Mapping
+- Character Controllers (First Person, Third Person, 2D/3D Platformer etc)
+- Camera Controllers (Fly Camera, Orbit etc)
 - Other Misc Math Utilities
 
 ## Requirements
