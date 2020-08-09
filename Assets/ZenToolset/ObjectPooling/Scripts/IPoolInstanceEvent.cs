@@ -1,8 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-namespace ZenToolset
+﻿namespace ZenToolset
 {
     public interface IPoolInstanceEvent
     {

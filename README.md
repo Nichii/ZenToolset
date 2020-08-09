@@ -12,7 +12,6 @@ A Unity toolset that includes commonly used codes that focus on simplicity and p
 ## Planned Features
 - Tween
 - Spline
-- Gamepad Joystick Square To Circle Input Mapping
 - Character Controllers (First Person, Third Person, 2D/3D Platformer etc)
 - Camera Controllers (Fly Camera, Orbit etc)
 - Other Misc Math Utilities
