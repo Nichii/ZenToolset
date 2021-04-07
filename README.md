@@ -8,6 +8,7 @@ A Unity toolset that includes commonly used codes that focus on simplicity and p
 - Singleton
 - Update Manager
 - Object Pooling
+- Scene Auto Loader
 
 ## Planned Features
 - Tween
