@@ -74,7 +74,7 @@ static class SceneAutoLoader
         }
     }
 
-    [MenuItem("ZenToolset/Scene Autoload/Select Master Scene...")]
+    [MenuItem("Tools/ZenToolset/Scene Autoload/Select Master Scene...")]
     private static void SelectMasterScene()
     {
         string masterScene = EditorUtility.OpenFilePanel("Select Master Scene", Application.dataPath, "unity");
@@ -89,23 +89,23 @@ static class SceneAutoLoader
         }
     }
 
-    [MenuItem("ZenToolset/Scene Autoload/Load Master On Play", true)]
+    [MenuItem("Tools/ZenToolset/Scene Autoload/Load Master On Play", true)]
     private static bool ShowLoadMasterOnPlay()
     {
         return !LoadMasterOnPlay;
     }
-    [MenuItem("ZenToolset/Scene Autoload/Load Master On Play")]
+    [MenuItem("Tools/ZenToolset/Scene Autoload/Load Master On Play")]
     private static void EnableLoadMasterOnPlay()
     {
         LoadMasterOnPlay = true;
     }
 
-    [MenuItem("ZenToolset/Scene Autoload/Don't Load Master On Play", true)]
+    [MenuItem("Tools/ZenToolset/Scene Autoload/Don't Load Master On Play", true)]
     private static bool ShowDontLoadMasterOnPlay()
     {
         return LoadMasterOnPlay;
     }
-    [MenuItem("ZenToolset/Scene Autoload/Don't Load Master On Play")]
+    [MenuItem("Tools/ZenToolset/Scene Autoload/Don't Load Master On Play")]
     private static void DisableLoadMasterOnPlay()
     {
         LoadMasterOnPlay = false;
