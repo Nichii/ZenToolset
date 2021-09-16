@@ -1,0 +1,15 @@
+{
+    "name": "ZenToolset.Examples",
+    "references": [
+        "GUID:10be94f74d273d047ac363850a1ea866"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
