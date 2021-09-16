@@ -19,4 +19,4 @@ A Unity toolset that includes commonly used codes that focus on simplicity and p
 
 ## Requirements
 - Scripts should work for Unity 5 and above
-- For contributing, you must only use Unity 2018.4.0f1
+- For contributing, you must only use Unity 2019.4.0f1

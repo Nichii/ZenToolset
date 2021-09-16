@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Requirements
 
-1. Ensure that you are using Unity 2018.4.0f1. Do not Pull Request with any other versions.
+1. Ensure that you are using Unity 2019.4.0f1. Do not Pull Request with any other versions.
 2. Do not import any additional packages (including TextMeshPro) as we want to ensure the project is as standalone as possible.
 
 ## Pull Request Process
