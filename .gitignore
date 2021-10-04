@@ -64,3 +64,6 @@ crashlytics-build.properties
 
 # Ignore low poly water's plane mesh asset
 # [Aa]ssets/LowPolyWater_Pack/Plane\ Meshes/
+
+# [ZenToolset] Ignore Settings Folder
+/[Aa]ssets/Settings/
